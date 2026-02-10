@@ -30,3 +30,9 @@ Note: Bu dokümanlar sadece eğitim ve analiz amaçlıdır. Stay ethical.
 <img width="1579" height="48" alt="image" src="https://github.com/user-attachments/assets/269d558a-2641-40f9-9cb3-8aa63d1f68ce" />
 <img width="1664" height="49" alt="image" src="https://github.com/user-attachments/assets/c7682cac-b1b3-459c-9efd-cb7dd2244fe7" />
 
+
+**CTF Performance & Achievements**
+
+TSGK CTF #1: Türkiye genelinde düzenlenen yarışmada binlerce katılımcı arasından 66. sırada yer alarak teknik analiz yetkinliğimi kanıtladım.
+
+TSGK CTF #2: Tüm challenge’ları (Web, Crypto, Forensics, Pwn) sadece 45 dakika içerisinde %100 başarıyla tamamlayarak, scoreboard yayınlanmamış olsa dahi ilk 10 içerisindeki yerimi teorik ve pratik hızla tescilledim. Karmaşık problemleri baskı altında rekor sürede çözme yeteneğine sahibim.
