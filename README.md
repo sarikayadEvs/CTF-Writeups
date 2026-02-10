@@ -21,3 +21,12 @@ Focus: Sistem manipülasyonu ve güvenli köprüler kurma.
 Philosophy: "Eğer bir sistem varsa, bir giriş yolu da vardır."
 
 Note: Bu dokümanlar sadece eğitim ve analiz amaçlıdır. Stay ethical.
+
+
+**CTF SIRALAMALARI**
+
+<img width="1526" height="45" alt="image" src="https://github.com/user-attachments/assets/dbfcd97e-8f4e-4910-b7c0-b52c6ec6fdea" />
+<img width="1633" height="45" alt="image" src="https://github.com/user-attachments/assets/32fd24fa-8c2d-4347-b5e5-ca9a0a226c7f" />
+<img width="1579" height="48" alt="image" src="https://github.com/user-attachments/assets/269d558a-2641-40f9-9cb3-8aa63d1f68ce" />
+<img width="1664" height="49" alt="image" src="https://github.com/user-attachments/assets/c7682cac-b1b3-459c-9efd-cb7dd2244fe7" />
+
